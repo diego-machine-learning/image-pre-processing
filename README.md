@@ -5,7 +5,9 @@ https://towardsdatascience.com/computer-vision-for-beginners-part-2-29b3f9151874
 Considerations
 
 Improve image quality for a given identification context ( text, objects, patterns )
+
 Remove noise - control pixel intensity ( generalization )
+
 Kernels are used to apply specific rules in a given range
 
 ## Blurring - perform noise reduction 
@@ -19,7 +21,7 @@ Kernels are used to apply specific rules in a given range
 
 
 ## Thresholding - transform images into binary
-* set value and max value
+### set value and max value
 
 - binary
 - inverse of binary
